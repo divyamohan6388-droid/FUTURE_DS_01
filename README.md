@@ -92,28 +92,6 @@ Business-Sales-Performance-Analytics/
 
 ---
 
-## ▶️ How to Run
-
-1. **Clone the repository:**
-```bash
-   git clone https://github.com/YOUR_USERNAME/Business-Sales-Performance-Analytics.git
-   cd Business-Sales-Performance-Analytics
-```
-
-2. **Install dependencies:**
-```bash
-   pip install pandas numpy matplotlib seaborn jupyter
-```
-
-3. **Launch the notebook:**
-```bash
-   jupyter notebook EDA_superstone.ipynb
-```
-
-4. Run all cells to reproduce the full analysis and visualizations.
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License**.
