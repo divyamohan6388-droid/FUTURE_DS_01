@@ -1,0 +1,2 @@
+overall_performance,top_categories,best_region,delivery_status_distribution,best_customer_segment
+"{'total_sales': np.float64(12737842.600000001), 'total_profit': np.float64(3186464.74), 'total_orders': 1000, 'average_profit_margin': np.float64(25.01573335503455)}","{'Grocery': 846039.25, 'Electronics': 826746.52, 'Furniture': 772283.2, 'Office Supplies': 741395.77}",North,"{'Cancelled': 26.3, 'Returned': 26.200000000000003, 'Delivered': 24.6, 'Pending': 22.900000000000002}",Home Office
